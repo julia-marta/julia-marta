@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/julia-marta/julia-marta/main/banner.png"/>
-<hr></hr>
 <h3 align="center">Hi, I'm Julia! 👋</h3> <br>
 
 <p align="center">

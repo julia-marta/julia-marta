@@ -3,8 +3,8 @@
 
 <p align="center">
   <samp>
-    :computer: Irrepressible Junior <b>Frontend Developer</b> <br>
-    :green_heart: In love with <b>React</b> and <b>Redux Toolkit</b> <br>
+    :computer: Irrepressible Junior <b>Full Stack Developer</b> <br>
+    :green_heart: In love with <b>React</b> and <b>Node.js</b> <br>
     :green_book: Currently learning <b>TypeScript</b> and <b>Vue.js</b> <br><br>
     :email:	j.nabiulina@yandex.ru <br>
     :alien: Portfolio: https://julia-marta.github.io <br>

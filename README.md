@@ -1,12 +1,1 @@
-<img src="https://raw.githubusercontent.com/julia-marta/julia-marta/main/banner.png"/>
-<h3 align="center">Hi, I'm Julia! 👋</h3> <br>
-
-<p align="center">
-  <samp>
-    :computer: Irrepressible Junior <b>Full Stack Developer</b> <br>
-    :green_heart: In love with <b>React</b> and <b>Node.js</b> <br>
-    :green_book: Currently learning <b>TypeScript</b> and <b>Vue.js</b> <br><br>
-    :email:	j.nabiulina@yandex.ru <br>
-    :alien: Portfolio: https://julia-marta.github.io <br>
-  </samp>
-</p>
+<img src="https://raw.githubusercontent.com/julia-marta/julia-marta/main/16f3c97c3922411ca48da7e814304144_87fe176d40fc95f8b668b576af61c409.jpg"/>

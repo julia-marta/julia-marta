@@ -1,14 +1,48 @@
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/julia-marta/julia-marta/main/main_banner.jpg"/>
-</p>
 
-<h3 align="center">Hi, I'm Julia! 👋</h3> <br>
+## Hi, I'm Julia! :wave:
 
-<p align="center">
-  <samp>
-    :computer: Irrepressible <b>Frontend Developer</b> <br>
-    :green_book: Now learning: <b>TypeScript</b> and <b>Vue.js</b> <br><br>
-    :email:	j.nabiulina@yandex.ru <br>
-    :alien: Portfolio: https://julia-marta.github.io <br>
-  </samp>
-</p>
+:computer: **Frontend Developer** in **Takeoff-Staff**
+
+:green_book: Now learning: **TypeScript** and **Vue.js** 
+
+##
+
+### Technologies:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vuedotjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badge&logo=sequelize)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=mobx)
+![Socket.io](https://img.shields.io/badge/-Socket.io-090909?style=for-the-badge&logo=socketdotio)
+![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=jest)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![Ant Design](https://img.shields.io/badge/-AntDesign-090909?style=for-the-badge&logo=antdesign)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
+![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=less)
+![Pug](https://img.shields.io/badge/-Pug-090909?style=for-the-badge&logo=pug)
+![Lodash](https://img.shields.io/badge/-Lodash-090909?style=for-the-badge&logo=lodash)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
+![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)
+![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=babel)
+![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-090909?style=for-the-badge&logo=yarn)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=gitlab)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
+
+##
+
+### Contacts:
+
+:email:	j.nabiulina@yandex.ru
+
+:alien: Portfolio: https://julia-marta.github.io

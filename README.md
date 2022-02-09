@@ -1,20 +1,16 @@
+# Hi, I'm Julia :wave:
 
-## Hi, I'm Julia! :wave:
-
-:computer: **Frontend Developer** in **Takeoff-Staff**
-
-:green_book: Now learning: **TypeScript** and **Vue.js** 
+#### Frontend Developer in Takeoff-Staff :construction_worker: 
 
 ##
 
-### Technologies:
+### :computer: Technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
-![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vuedotjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badge&logo=sequelize)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
@@ -37,12 +33,37 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=gitlab)
+![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 
 ##
 
-### Contacts:
+### :mortar_board: Now learning:
 
-:email:	j.nabiulina@yandex.ru
+![Vue.js](https://img.shields.io/badge/-Vue.js-f6f8fa?style=for-the-badge&logo=vuedotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-f6f8fa?style=for-the-badge&logo=typescript)
 
-:alien: Portfolio: https://julia-marta.github.io
+##
+
+<a href="mailto:j.nabiulina@yandex.ru">
+  <img align="left" width="30px" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/mail_email_e-mail_letter-1024.png" />
+</a>
+
+<a href="https://t.me/juliamarta">
+  <img align="left" width="30px" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/telegram_social_media_network_chat-1024.png" />
+</a>
+
+<a href="https://discordapp.com/users/912241785168855080">
+  <img align="left" width="30px" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/discord_group_forum_message-1024.png" />
+</a>
+
+<a href="https://vk.com/collector_marta">
+  <img align="left" width="30px" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/vk_vkontakte_media_social-1024.png" />
+</a>
+
+
+
+
+	
+
+ 

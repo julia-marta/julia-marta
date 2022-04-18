@@ -40,8 +40,10 @@
 
 ### :mortar_board: Now learning:
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-f6f8fa?style=for-the-badge&logo=vuedotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-f6f8fa?style=for-the-badge&logo=typescript)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ##
 

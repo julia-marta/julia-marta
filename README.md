@@ -11,6 +11,7 @@
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![Vue.js](https://img.shields.io/badge/vuejs-090909.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badge&logo=sequelize)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
@@ -40,7 +41,6 @@
 
 ### :mortar_board: Now learning:
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)

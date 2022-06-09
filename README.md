@@ -1,6 +1,6 @@
 # Hi, I'm Julia :wave:
 
-### Frontend Developer in Takeoff-Staff :construction_worker: 
+### Frontend Developer in [Method Zero](https://www.methodzero.io) :surfer:
 
 ##
 

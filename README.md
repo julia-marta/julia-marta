@@ -18,6 +18,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -51,9 +53,8 @@
 
 ### :mortar_board: Now learning:
 
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ##
 
@@ -64,15 +65,6 @@
 <a href="https://t.me/juliamarta">
   <img align="left" width="30px" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/telegram_social_media_network_chat-1024.png" />
 </a>
-
-<a href="https://discordapp.com/users/912241785168855080">
-  <img align="left" width="30px" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/discord_group_forum_message-1024.png" />
-</a>
-
-<a href="https://vk.com/collector_marta">
-  <img align="left" width="30px" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/vk_vkontakte_media_social-1024.png" />
-</a>
-
 
 
 

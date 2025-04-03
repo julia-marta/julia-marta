@@ -1,6 +1,6 @@
 # Hi, I'm Julia :wave:
 
-### Frontend Developer in [АльфасаткомСК](http://alfasatcomsk.ru/) :rocket:
+### Frontend Developer
 
 ##
 
